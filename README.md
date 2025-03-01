@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 I’m passionate about solving real-world problems 🔍, particularly when it comes to optimizing processes and improving efficiency ⚙️. I’m always eager to dive into new technologies 🚀 and take on challenges that help me grow both professionally and personally 🌱.
 
 ![madsfranzen's Stats](https://github-readme-stats.vercel.app/api?username=madsfranzen&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![madsfranzen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=madsfranzen&theme=dark&hide_border=true)
 ![madsfranzen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madsfranzen&theme=dark&show_icons=true&hide_border=true&layout=compact)
