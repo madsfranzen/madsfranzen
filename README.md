@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-👨‍💻 I’m Mads Franzen, a Computer Science student at Business Academy Aarhus 🎓. Alongside my studies, I have 6 years of experience as an IT freelancer 💻, where I’ve worked on various projects, including transcription, translation, and Human Reinforcement Learning for Google's LLM Bard 🤖.
-
-I’m passionate about solving real-world problems 🔍, particularly when it comes to optimizing processes and improving efficiency ⚙️. I’m always eager to dive into new technologies 🚀 and take on challenges that help me grow both professionally and personally 🌱.
+Mads Franzen: Computer Science student @ Business Academy Aarhus · 6+ years' freelance experience in tech · Worked on transcription, translation & RLHF for LLM's · Passionate about solving real-world problems through smart, efficient solutions.
 
 ![madsfranzen's Stats](https://github-readme-stats.vercel.app/api?username=madsfranzen&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![madsfranzen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madsfranzen&theme=dark&show_icons=true&hide_border=true&layout=compact)
