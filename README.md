@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Student of Computer Science @ Business Academy Aarhus · 6+ years' freelance experience in tech · Worked with RLHF for LLM's, transcription & translation · Passionate about solving real-world problems through smart, efficient solutions.
 
-![madsfranzen's Stats](https://github-readme-stats.vercel.app/api?username=madsfranzen&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![madsfranzen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madsfranzen&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![madsfranzen's Stats](https://github-readme-stats.vercel.app/api?username=madsfranzen&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![madsfranzen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madsfranzen&theme=transparent&show_icons=true&hide_border=true&count_private=true)
